@@ -1,0 +1,92 @@
+
+body{
+    background: "http://thumbs.dreamstime.com/z/puzzle-pieces-colorful-background-sides-41755586.jpg";
+    background-size: 100%;
+    
+}
+
+#iskalnik {
+    margin: 0 auto;
+    width:280px;
+    margin-top: 150px;
+
+}
+.isci{
+    text-align: center;
+}
+.ikone{
+    text-align: right;
+    text-decoration: none;
+    color:white;
+    padding: 10px 20px;
+    
+   
+    font-family: Verdana;
+    
+}
+
+.material-icons{
+    text-decoration: none;
+}
+
+
+#gb_P{
+   background-color: firebrick;
+    color: white;
+    padding: 4px 10px;
+    text-align: center;	
+    text-decoration: none;
+    display:inline-block;
+    border:1px solid black;
+
+
+}
+a#gb_P:hover {
+    background-color: blue;
+}
+
+.spodaj{
+    
+    text-align:left;          
+    text-decoration: none;
+    margin-top: 250px;
+    color:white;
+    padding: 10px 20px;
+    font-family:Verdana;
+    position:bottom;
+    
+}
+
+
+#nadspodaj{
+    background-color: firebrick;
+    color: white;
+    padding: 4px 10px;
+    text-align: center;	
+    text-decoration: none;
+    display: inline-block;
+    border:1px solid black;
+
+}
+a#nadspodaj:hover{
+    background-color:blue;
+}
+#nadspodaj
+
+
+
+
+#bugl{
+    position: fixed;
+    bottom:0px;
+    right:0px;
+    width:150px
+        
+}
+
+.box{
+  margin: auto;
+  width: 200px;
+  height: 50px;
+    
+}
